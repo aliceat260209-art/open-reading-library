@@ -36,6 +36,7 @@ AI OCR、摘要、语义检索和复习卡作为第二阶段能力：届时再�
 ## 文档
 
 - [第一阶段：云端私人图书馆](docs/PHASE_1_CLOUD_LIBRARY.md)
+- [第一阶段云端部署决策](docs/DEPLOYMENT_DECISION.md)
 - [产品与架构](docs/ARCHITECTURE.md)
 - [隐私、版权与安全边界](docs/PRIVACY_AND_COPYRIGHT.md)
 - [从本地原型到公开 Beta 的实施计划](docs/plans/2026-08-09-public-beta.md)
